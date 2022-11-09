@@ -1,0 +1,14 @@
+<soft_skills>
+	<bug_treakers>JIRA,MANTIS</bug_treakers>
+	<test_treakers>TestLink<test_treakers>
+			<sql>SQL DML,DDL</sql>
+			<protocols>HTTP,HTTPS</protocols>
+			<API>API REST,SOAP</API>
+			<GIT>GITHUB,GITBASH</GIT>
+			<test_documentation>Test Plan,Test case, Test suite, Check list</test_documentation>
+			<Chrome>Devtools</Chrome>
+			<tools>SNAGIT, Lightshot,Bandicam</tools>
+			<json>JSON</json>
+			<api>POSTMAN</api>
+		</soft_skills>
+
