@@ -31,11 +31,11 @@
 
 <person_surname>Nekroyenko</person_surname>
 
-<age>30</age>
+<person_age>30</person_age>
 
-<pets>2</pets>
+<person_pets>2</persopn_pets>
 
-<salary>3000</salary>
+<person_salary>3000</person_salary>
 
 </note>
 
@@ -68,7 +68,9 @@
 	<country>USA</country>
 	
 </note>
+
 - **Esc:wq**
+
 - **cat preferences.xml**  - to see the preferences.xml content in gitbash
 ***
 ### *31. Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML*
@@ -142,13 +144,12 @@
 ### *36. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.*
 - **click on the dropbox--> edit this file -->**
 
-<note>
+<?xml version="1.0" encoding="UTF-8"?>
+<BUGREPORT ID="110920221">
 
-<bug_report ID="110920221">
-
- <Title>Fields are shown without required identification</Title>
+ <TITLE>Fields are shown without required identification</TITLE>
             
-<Invironment>Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</Invironment>
+<INVIRONMENT>Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</INVIRONMENT>
 
 <STR1>Open the http://itcareer.pythonanywhere.com</STR1>
 
@@ -158,17 +159,15 @@
 
 <ER>Required fields are shown marked *(asterisk)</ER>
 
-<Severity>major</Severity>
+<SEVERITY>major</SEVERITY>
 
-<Priority>high</Priority>
+<PRIORITY>high</PRIORITY>
 
-<Attachment1>link_video</Attachment1>
+<ATTACHMENT1>link_video</ATTACHMENT1>
 
-<Attachment2>link_screenshort</Attachment2>
+<ATTACHMENT2>link_screenshort</ATTACHMENT2>
 
-</bug_report>
-
-</note>
+</BUGREPORT>
 
 ***
 ### *37. Сделать Commit changes (сохранить) изменения на веб интерфейсе.*
