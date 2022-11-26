@@ -145,29 +145,29 @@
 - **click on the dropbox--> edit this file -->**
 
 <?xml version="1.0" encoding="UTF-8"?>
-<BUGREPORT ID="110920221">
+- <BUGREPORT ID="110920221">
 
- <TITLE>Fields are shown without required identification</TITLE>
+ - <TITLE>Fields are shown without required identification</TITLE>
             
-<INVIRONMENT>Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</INVIRONMENT>
+- <INVIRONMENT>Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</INVIRONMENT>
 
-<STR1>Open the http://itcareer.pythonanywhere.com</STR1>
+- <STR1>Open the http://itcareer.pythonanywhere.com</STR1>
 
-<STR2>Pay attention to the browser tab</STR2>
+- <STR2>Pay attention to the browser tab</STR2>
 
-<AR>Fields are shown without required identification</AR>
+- <AR>Fields are shown without required identification</AR>
 
-<ER>Required fields are shown marked *(asterisk)</ER>
+- <ER>Required fields are shown marked *(asterisk)</ER>
 
-<SEVERITY>major</SEVERITY>
+- <SEVERITY>major</SEVERITY>
 
-<PRIORITY>high</PRIORITY>
+- <PRIORITY>high</PRIORITY>
 
-<ATTACHMENT1>link_video</ATTACHMENT1>
+- <ATTACHMENT1>link_video</ATTACHMENT1>
 
-<ATTACHMENT2>link_screenshort</ATTACHMENT2>
+- <ATTACHMENT2>link_screenshort</ATTACHMENT2>
 
-</BUGREPORT>
+- </BUGREPORT>
 
 ***
 ### *37. Сделать Commit changes (сохранить) изменения на веб интерфейсе.*
