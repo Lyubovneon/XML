@@ -33,7 +33,7 @@
 
 <person_age>30</person_age>
 
-<person_pets>2</persopn_pets>
+<person_pets>2</person_pets>
 
 <person_salary>3000</person_salary>
 
