@@ -25,6 +25,8 @@
 - **vim new.xml**
 - **insert**
 
+<note>
+
 <person_name>Lyubov</person_name>
 
 <person_surname>Nekroyenko</person_surname>
@@ -34,6 +36,8 @@
 <pets>2</pets>
 
 <salary>3000</salary>
+
+</note>
 
 - **Esc:wq**
 - **cat new.xml**  - to see the new.xml content in gitbash
@@ -72,14 +76,14 @@
 - **ls -la**  -  to see XML content 
 - **vim skills.xml**
 - **insert**
-- 
+
 <skills>
 
 	<1>Bug Tracker JIRA, Mantis</1>
 	
 	<2>Test Tracker TestLink </2>
 	
-        <3>Test documentations Test Plan, Test case, Test Suite, Check list, Bug report</3>
+    <3>Test documentations Test Plan, Test case, Test Suite, Check list, Bug report</3>
         
 	<4>Testing Methods, Types of Testing, Software Test Design Techniques, SDLS(System Development Life Cycle), STLC</4>
 	
@@ -138,6 +142,8 @@
 ### *36. На веб интерфейсе модифицировать файл bug_report.xml, добавить баг репорт в формате XML.*
 - **click on the dropbox--> edit this file -->**
 
+<note>
+
 <bug_report ID="110920221">
 
  <Title>Fields are shown without required identification</Title>
@@ -161,6 +167,8 @@
 <Attachment2>link_screenshort</Attachment2>
 
 </bug_report>
+
+</note>
 
 ***
 ### *37. Сделать Commit changes (сохранить) изменения на веб интерфейсе.*
