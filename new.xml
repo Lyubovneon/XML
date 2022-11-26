@@ -1,6 +1,6 @@
 <!--27. написать инфо о человеке в XML-->
-<person_name="Lyubov">
-	<person_surname="Nekroyenko">
-		<age="30">
-			<pets="2">
-				<salary="3000">
+<person_name>Lyubov</person_name>
+<person_surname>Nekroyenko</person_surname>
+<age>30</age>
+<pets>2</pets>
+<salary>3000</salary>

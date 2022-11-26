@@ -1,14 +1,23 @@
-<soft_skills>
-	<bug_treakers>JIRA,MANTIS</bug_treakers>
-	<test_treakers>TestLink<test_treakers>
-			<sql>SQL DML,DDL</sql>
-			<protocols>HTTP,HTTPS</protocols>
-			<API>API REST,SOAP</API>
-			<GIT>GITHUB,GITBASH</GIT>
-			<test_documentation>Test Plan,Test case, Test suite, Check list</test_documentation>
-			<Chrome>Devtools</Chrome>
-			<tools>SNAGIT, Lightshot,Bandicam</tools>
-			<json>JSON</json>
-			<api>POSTMAN</api>
-		</soft_skills>
+<skills>
+	<1>Bug Tracker JIRA, Mantis</1>
+	<2>Test Tracker TestLink </2>
+        <3>Test documentations Test Plan, Test case, Test Suite, Check list, Bug report</3>
+	<4>Testing Methods, Types of Testing, Software Test Design Techniques, SDLS(System Development Life Cycle), STLC</4>
+	<5>Agile methodology SCRUM, KANBAN</5>
+	<6>Client-Server Architecture Basics</6>
+	<7>SQL DML, DDL</7>
+	<8>HTTP methods</8>
+	<9>Response STATUS codes</9>
+	<10>API REST, SOAP</10>
+	<11>POSTMAN</11>
+	<12>Devtools Chrome</12>
+	<13>GITHUB, GITBASH</13>
+	<14>JSON, XML basic, structure </14>
+	<15>Google Sheets</15>
+	<16>Visual Studio code basics</16>
+	<17>Mobile testing</17>
+	<18>SNAGIT, Lightshot, Bandicam</18>
+	<19>html, css, JavaScript basics</19>
+	<20>Taking, uploading and reading Logs </20>
+</skills>
 
