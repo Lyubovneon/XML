@@ -151,13 +151,15 @@
 
 <field name="id"110920221"></field>
 
-<field name="title">Fields are shown without required identification</field>
-            
-<field name="invironment">Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</field>
+<bugtitle="title">Fields are shown without required identification</bugtitle> 
 
-<field name="str1">Open the http://itcareer.pythonanywhere.com</field>
+<buginv="invironment">Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</buginv>
 
-<field name="str2">Pay attention to the browser tab</field>
+<bugsteps>
+<str1>Open the http://itcareer.pythonanywhere.com</str1>
+
+<str2>Pay attention to the browser tab</str2>
+</bugsteps>
 
 <field name="ar">Fields are shown without required identification</field>
 
@@ -172,7 +174,6 @@
 <field name="attachmentscreen">link_screenshort</field>
 
 </bugreport>
-
 ***
 ### *37. Сделать Commit changes (сохранить) изменения на веб интерфейсе.*
 - **--> write the title in the Commite changes field --> click on the Commit changes button**
