@@ -130,12 +130,14 @@
 ### *32. Сделать коммит в одну строку.*
 - **git add .** 
 - **git commit -m** "add preferences.xml skills.xml"
+
 ***
 ### *33. Отправить сразу 2 файла на внешний репозиторий.*
 - **git push**
+
 ***
 ### *34. На веб интерфейсе создать файл bug_report.xml.*
-- **github.com --> drop down menu --> Your Repositories --> click on the XML Repository --> click on add file dropbox --> Create new file --> write bug_report.xml in the name field **
+- **github.com --> drop down menu --> Your Repositories --> click on the XML Repository --> click on add file dropbox --> Create new file --> write bug_report.xml in the name field**
 
 ***
 ### *35. Сделать Commit changes (сохранить) изменения на веб интерфейсе.*
@@ -156,9 +158,11 @@
 <buginv="invironment">Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</buginv>
 
 <bugsteps>
+
 <str1>Open the http://itcareer.pythonanywhere.com</str1>
 
 <str2>Pay attention to the browser tab</str2>
+
 </bugsteps>
 
 <field name="ar">Fields are shown without required identification</field>
