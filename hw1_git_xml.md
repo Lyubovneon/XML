@@ -123,6 +123,7 @@
 	
 </skills>
 - **Esc:wq**
+
 - **cat skills.xml**  - to see the skills.xml content in gitbash
 
 ***
@@ -145,11 +146,14 @@
 - **click on the dropbox--> edit this file -->**
 
 <?xml version="1.0" encoding="UTF-8"?>
-<bugreport id="110920221">
+
+<bugreport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML-Schema-Rules.xsd"> 
+
+<field name="id"110920221"></field>
 
 <field name="title">Fields are shown without required identification</field>
             
-<field name="invironment">Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</invironment>
+<field name="invironment">Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</field>
 
 <field name="str1">Open the http://itcareer.pythonanywhere.com</field>
 
@@ -157,7 +161,7 @@
 
 <field name="ar">Fields are shown without required identification</field>
 
-<field name="er">Required fields are shown marked *(asterisk)</er>
+<field name="er">Required fields are shown marked *(asterisk)</field>
 
 <field name="severity">major</field>
 
