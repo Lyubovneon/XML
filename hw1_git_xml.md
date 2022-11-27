@@ -174,6 +174,7 @@
 <field name="attachmentscreen">link_screenshort</field>
 
 </bugreport>
+
 ***
 ### *37. Сделать Commit changes (сохранить) изменения на веб интерфейсе.*
 - **--> write the title in the Commite changes field --> click on the Commit changes button**
