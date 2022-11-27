@@ -1,12 +1,15 @@
-<bug_report ID="110920221">
-            <Title>Fields are shown without required identification</Title>
-<Invironment>Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</Invironment>
-<STR1>Open the http://itcareer.pythonanywhere.com</STR1>
-<STR2>Pay attention to the browser tab</STR2>
-<AR>Fields are shown without required identification</AR>
-<ER>Required fields are shown marked *(asterisk)</ER>
-<Severity>major</Severity>
-<Priority>high</Priority>
-<Attachment1>link_video</Attachment1>
-<Attachment2>link_screenshort</Attachment2>
-</bug_report>
+<?xml version="1.0" encoding="UTF-8"?>
+<bugreport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="XML-Schema-Rules.xsd"> 
+<field name="id"110920221"></field>
+<field name="title">Fields are shown without required identification</field>        
+<field name="invironment">Microsoft EdgeVersion 105.0.1343.27 (64-bit) OS Windows OS Version 10x64</field>
+<field name="str1">Open the http://itcareer.pythonanywhere.com</field>
+<field name="str2">Pay attention to the browser tab</field>
+<field name="ar">Fields are shown without required identification</field>
+<field name="er">Required fields are shown marked *(asterisk)</field>
+<field name="severity">major</field>
+<field name="priority">high</field>
+<field name="attachmentvideo">link_video</field>
+<field name="attachmentscreen">link_screenshort</field>
+</bugreport>
+
